@@ -1,8 +1,8 @@
 ## Oi, meu nome é Naara Veronez
 <div style="display: inline_block">
 	<a href="https://github.com/naaracrv">
-		<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=naaracrv&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-		<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaracrv&layout=compact&langs_count=16&theme=tokyonight"/>
+		<img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=naaracrv&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+		<img align="center" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaracrv&layout=compact&langs_count=16&theme=tokyonight"/>
 	</a>
 </div>
 <div style="display: inline_block">
