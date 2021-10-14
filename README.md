@@ -4,18 +4,20 @@
 <div style="display: inline_block">
 	<a href="https://github.com/naaracrv">
 		<img align="center" width="425" src="https://github-readme-stats.vercel.app/api?username=naaracrv&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+		<br>
 		<img align="center" width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaracrv&layout=compact&langs_count=16&theme=tokyonight"/>
 	</a>
 </div>
 <div style="display: inline_block">
 	<br>
-	<img align="center" alt="Naara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="Naara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Naara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="Naara-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-	<img align="center" alt="Naara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+	<img align="center" alt="Naara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+	<img align="center" alt="Naara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+	<img align="center" alt="Naara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+	<img align="center" alt="Naara-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+	<img align="center" alt="Naara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 	<img align="center" alt="Naara-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 	<img align="center" alt="Naara-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+	<img align="center" alt="Naara-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 	<img align="center" width="100" src="https://visitor-badge.laobi.icu/badge?page_id=naara_veronez"><!-- numero de visitantes -->
 	<img align="right" alt="Naara-yoda" height="180" width="310" src="https://i.pinimg.com/originals/f7/1a/29/f71a298ba0d77cbf935166da99a9f759.gif">
 <!-- 	<img align="right" alt="Naara-yoda" src="http://pa1.narvii.com/7048/710e505c733dd8697b1ca96bb41b6a079e9ba53fr1-370-300_00.gif"> -->
