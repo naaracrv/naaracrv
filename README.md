@@ -1,4 +1,5 @@
-## Oi, meu nome é Naara Veronez
+## Oi, meu nome é Naara Cristina R. Veronez, mas pode me chamar de Naara! 
+Sou estudante de Sistemas de Informação (Noturno) pela UVV - Universidade Vila velha. Focando meus estudos em desenvolvimento front-end😊💻.
 <div style="display: inline_block">
 	<a href="https://github.com/naaracrv">
 		<img align="center" width="425" src="https://github-readme-stats.vercel.app/api?username=naaracrv&show_icons=true&theme=tokyonight&include_all_commits=true"/>
