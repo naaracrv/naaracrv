@@ -6,8 +6,8 @@
 		<br>
 		<img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=naaracrv&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0%22/%3E"/>
 		<br><br>
-		<img width="509" src="https://github-readme-stats.vercel.app/api?username=naaracrv&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-		<img width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaracrv&layout=compact&langs_count=16&theme=tokyonight"/>
+		<img width="460" src="https://github-readme-stats.vercel.app/api?username=naaracrv&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+		<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaracrv&layout=compact&langs_count=16&theme=tokyonight"/>
 	</a>
 </div>
 <div style="display: inline_block">
