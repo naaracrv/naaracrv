@@ -1,15 +1,14 @@
 ## Oi, meu nome é Naara Cristina R. Veronez, mas pode me chamar de Naara!
 ### Sou estudante de Sistemas de Informação (Noturno) pela UVV - Universidade Vila velha. Focando meus estudos em desenvolvimento front-end😊💻.
 
-
-<!-- <div align="center">
-  <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=naaracrv&theme=tokyonight&hide_border=true&stroke=0000"/>
-  <br>
-  <img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api?username=naaracrv&theme=tokyonight&show_icons=true&hide_border=true&stroke=0000&background=060A0CD0"/>
-  <img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaracrv&hide=html&layout=compact&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
+<div align="center">
+	<img height="200cm" width="800cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaracrv&hide=html&layout=compact&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
+	<br>
+	<img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api?username=naaracrv&theme=tokyonight&show_icons=true&hide_border=true&stroke=0000&background=060A0CD0"/>
+	<img height="180cm" width="400cm" src="https://github-readme-streak-stats.herokuapp.com/?user=naaracrv&theme=tokyonight&hide_border=true&stroke=0000"/>
 </div>
 
-<div style="display: inline_block" align="center">
+<!-- <div style="display: inline_block" align="center">
 	<a href="https://github.com/naaracrv"><br>
 		<img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=naaracrv&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0%22/%3E"/>
 		<br><br>
@@ -24,7 +23,7 @@
 	<img align="center" alt="Naara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 	<img align="center" alt="Naara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 	<img align="center" alt="Naara-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-	<img align="center" alt="Naara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+	<img align="center" alt="Naara-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 	<img align="center" alt="Naara-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 	<img align="center" alt="Naara-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 	<img align="center" alt="Naara-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
