@@ -35,7 +35,5 @@
 	</a>
  
   ![Snake animation](https://github.com/naaracrv/naaracrv/blob/output/github-contribution-grid-snake.svg)
- 
 	
 </div>
-
