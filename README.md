@@ -1,5 +1,5 @@
-## Oi, meu nome é Naara Cristina R. Veronez, mas pode me chamar de Naara!
-### Sou estudante de Sistemas de Informação (Noturno) pela UVV - Universidade Vila velha. Focando meus estudos em desenvolvimento front-end😊💻.
+## Oi, meu nome é Naara Cristina R. V. Calot, mas pode me chamar de Naara!
+### Sou formada em Sistemas de Informação pela UVV - Universidade Vila velha. Focando meus estudos em desenvolvimento front-end😊💻.
 
 <div style="display: inline_block" align="center">
 	<img width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaracrv&hide=html&layout=compact&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/><br>
