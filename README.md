@@ -20,12 +20,12 @@
 	<img align="center" alt="Naara-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp
 	<img align="center" alt="Naara-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp
 	<img align="center" alt="Naara-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp
-	<img align="center" width="110" src="https://visitor-badge.laobi.icu/badge?page_id=naara_veronez"> <!-- numero de visitantes -->
 	<img align="right" alt="Naara-yoda" height="180" width="310" src="https://i.pinimg.com/originals/f7/1a/29/f71a298ba0d77cbf935166da99a9f759.gif">
         <br>
 	<br>
+	<img align="center" width="110" src="https://visitor-badge.laobi.icu/badge?page_id=naara_veronez"> &nbsp <!-- numero de visitantes --> 
 	<img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"> &nbsp
-	<a href="https://www.linkedin.com/in/naara-veronez/" target="_blank">
+	<a href="https://www.linkedin.com/in/naara-veronez/" target="_blank"> <!-- meu linkedin --> 
 		<img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 	</a> 
 </div>
